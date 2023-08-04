@@ -1,0 +1,25 @@
+{
+  "songs": [
+    {
+      "title": "Colors",
+      "artist": "Black Panters",
+      "genre": "RockRoll",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "title": "One Love",
+      "artist": "Bob Marley",
+      "genre": "Reggae",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "title": "Abajo Too",
+      "artist": "Kamamkola",
+      "genre": "Cuban alternative",
+      "rating": "5",
+      "id": 6
+    }
+  ]
+}
